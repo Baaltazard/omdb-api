@@ -1,1 +1,1 @@
-Preview : https://baaltazard.github.io/omdb-api/
+Preview : http://baltazard.rf.gd/
